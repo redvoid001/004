@@ -1,2 +1,2 @@
-alert ('создатель сайта Mr.void')
-//создатель Mr.void
+alert ('создатель сайта redvoid')
+//создатель redvoid
